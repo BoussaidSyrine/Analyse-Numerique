@@ -11,5 +11,5 @@
 
 
 [TP1]: https://github.com/BoussaidSyrine/TPN-1/blob/tp1/TP1.ipynb
-[TP2]:
+[TP2]: https://github.com/BoussaidSyrine/Analyse-Numerique/blob/tp1/TP2.ipynb
 [TP3]: 
